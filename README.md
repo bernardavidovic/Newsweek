@@ -1,4 +1,7 @@
 # Newsweek
+
+VIDEO: https://youtu.be/aFFend75VP4
+
 - kako pokrenuti
 
 1. staviti cijeli folder s dokumentima u xampp/htdocs
